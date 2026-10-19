@@ -1,0 +1,14 @@
+.deploy/
+data/
+backups/
+.shots/
+*.log
+app/android/app/build/
+app/android/build/
+app/android/.gradle/
+app/android/local.properties
+app/android/app/hnmusic.jks
+node_modules/
+Thumbs.db
+desktop.ini
+.tmp*

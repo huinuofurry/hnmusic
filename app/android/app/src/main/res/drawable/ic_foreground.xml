@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 图标前景：三根竖条（和网页里"心动模式"用的图标同一造型）+ 一个音符点 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M34,42 h7 v30 h-7 z" />
+    <path
+        android:fillColor="#A98BFF"
+        android:pathData="M50.5,32 h7 v40 h-7 z" />
+    <path
+        android:fillColor="#D6C7FF"
+        android:pathData="M67,46 h7 v26 h-7 z" />
+</vector>
